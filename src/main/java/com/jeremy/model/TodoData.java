@@ -23,7 +23,7 @@ public class TodoData {
     addItem(new TodoItem("first", "first details", LocalDate.now()));
     addItem(new TodoItem("second", "second details", LocalDate.now()));
     addItem(new TodoItem("third", "third details", LocalDate.now()));
-    addItem(new TodoItem("fourth", "fourth details", LocalDate.now()));
+    addItem(new TodoItem("another", "fourth details", LocalDate.now()));
 
   }
 
